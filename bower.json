@@ -1,0 +1,13 @@
+{
+  "name": "mime-types-angular",
+  "description": "The ultimate javascript content-type utility, adapted for AngularJS",
+  "license": "MIT",
+  "main": "src/mime-types.js",
+  "ignore": [],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mwhitrock/mime-types.git"
+  },
+  "dependencies": {
+    "angular": "~1.3"
+  }

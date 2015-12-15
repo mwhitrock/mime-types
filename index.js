@@ -5,6 +5,7 @@
  * MIT Licensed
  */
 
+
 'use strict'
 
 /**
@@ -38,7 +39,6 @@ exports.types = Object.create(null)
 
 // Populate the extensions/types maps
 populateMaps(exports.extensions, exports.types)
-
 /**
  * Get the default charset for a MIME type.
  *
